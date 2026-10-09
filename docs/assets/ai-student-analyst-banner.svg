@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+  <title id="title">AI Student Analyst</title>
+  <desc id="desc">A student performance analytics illustration with a data chart, student profile, and prediction categories.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101b3c"/>
+      <stop offset="1" stop-color="#172e5c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#55d6be"/>
+      <stop offset="1" stop-color="#55a7ff"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#07112c" flood-opacity=".32"/>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="420" rx="28" fill="url(#background)"/>
+  <circle cx="1210" cy="10" r="245" fill="#55a7ff" opacity=".07"/>
+  <circle cx="1060" cy="425" r="200" fill="#55d6be" opacity=".06"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="76" y="73" width="48" height="5" rx="2.5" fill="url(#accent)"/>
+    <text x="76" y="152" fill="#ffffff" font-size="54" font-weight="700" letter-spacing="-1">AI Student Analyst</text>
+    <text x="78" y="198" fill="#c7d4ee" font-size="22">Student records and performance prediction</text>
+    <text x="78" y="232" fill="#c7d4ee" font-size="22">powered by Python, SQLite, and scikit-learn</text>
+
+    <g transform="translate(78 286)">
+      <rect width="160" height="42" rx="21" fill="#ffffff" fill-opacity=".09" stroke="#ffffff" stroke-opacity=".16"/>
+      <circle cx="22" cy="21" r="5" fill="#55d6be"/>
+      <text x="38" y="27" fill="#eaf2ff" font-size="15" font-weight="600">LEARN BY BUILDING</text>
+    </g>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="760" y="62" width="560" height="296" rx="22" fill="#f8fbff"/>
+    <rect x="760" y="62" width="560" height="48" rx="22" fill="#edf3fb"/>
+    <path d="M760 88h560v22H760z" fill="#edf3fb"/>
+    <circle cx="789" cy="86" r="5" fill="#ff7d7d"/>
+    <circle cx="808" cy="86" r="5" fill="#ffc65c"/>
+    <circle cx="827" cy="86" r="5" fill="#55c89a"/>
+    <text x="854" y="91" fill="#53647e" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">STUDENT INSIGHTS</text>
+
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <rect x="786" y="131" width="222" height="194" rx="15" fill="#ffffff" stroke="#e4ebf4"/>
+      <text x="808" y="159" fill="#73829a" font-size="13" font-weight="600">ACADEMIC PROFILE</text>
+      <circle cx="832" cy="204" r="18" fill="#e7f5f3"/>
+      <path d="M824 205c0-5 4-9 8-9s8 4 8 9v4h-16z" fill="#28a895"/>
+      <circle cx="832" cy="199" r="4" fill="#28a895"/>
+      <text x="861" y="202" fill="#1b2a43" font-size="16" font-weight="700">Student record</text>
+      <text x="861" y="222" fill="#8a98ad" font-size="12">Attendance · marks · study time</text>
+      <line x1="808" y1="241" x2="986" y2="241" stroke="#edf1f7"/>
+      <text x="808" y="264" fill="#7f8da2" font-size="12">MODEL INPUTS</text>
+      <rect x="808" y="278" width="49" height="7" rx="3.5" fill="#dce8f8"/>
+      <rect x="864" y="278" width="57" height="7" rx="3.5" fill="#dce8f8"/>
+      <rect x="928" y="278" width="58" height="7" rx="3.5" fill="#dce8f8"/>
+      <circle cx="811" cy="302" r="3" fill="#55d6be"/>
+      <circle cx="867" cy="302" r="3" fill="#55a7ff"/>
+      <circle cx="931" cy="302" r="3" fill="#8d7cf6"/>
+
+      <rect x="1026" y="131" width="268" height="194" rx="15" fill="#ffffff" stroke="#e4ebf4"/>
+      <text x="1048" y="159" fill="#73829a" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">PREDICTION OVERVIEW</text>
+      <text x="1048" y="191" fill="#1b2a43" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Performance categories</text>
+      <line x1="1050" y1="284" x2="1270" y2="284" stroke="#e7edf5"/>
+      <line x1="1050" y1="215" x2="1050" y2="284" stroke="#e7edf5"/>
+      <path d="M1057 269 C1084 266 1084 239 1113 242 S1152 254 1177 229 S1219 237 1262 204" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+      <circle cx="1113" cy="242" r="5" fill="#55d6be" stroke="#ffffff" stroke-width="3"/>
+      <circle cx="1177" cy="229" r="5" fill="#55a7ff" stroke="#ffffff" stroke-width="3"/>
+      <circle cx="1262" cy="204" r="5" fill="#8d7cf6" stroke="#ffffff" stroke-width="3"/>
+      <rect x="1048" y="298" width="65" height="13" rx="6.5" fill="#fff0e9"/>
+      <rect x="1121" y="298" width="65" height="13" rx="6.5" fill="#fff7df"/>
+      <rect x="1194" y="298" width="75" height="13" rx="6.5" fill="#e5f7f1"/>
+    </g>
+  </g>
+</svg>
