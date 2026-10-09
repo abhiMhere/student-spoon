@@ -1,0 +1,4 @@
+SYNTHETIC DEMONSTRATION DATASET
+This CSV was generated programmatically for an educational mini-project.
+It contains no intentionally collected real student records.
+Its performance categories are simulated; evaluation scores do not prove real-world accuracy.

@@ -1,0 +1,1201 @@
+previous_marks,attendance_percent,study_hours_per_day,performance_category
+67.5,58.2,2.0,Average
+43.3,70.7,3.4,Needs Support
+75.5,84.3,1.4,Needs Support
+78.9,76.5,3.4,Strong
+26.9,68.2,0.2,Needs Support
+38.6,67.9,1.3,Average
+64.3,67.3,0.6,Needs Support
+56.3,64.8,5.7,Average
+61.7,100.0,1.5,Strong
+46.6,82.5,4.3,Average
+77.8,91.3,0.5,Average
+76.0,70.7,7.3,Strong
+63.2,75.2,3.0,Average
+82.3,67.3,2.8,Average
+70.4,38.2,0.7,Average
+46.5,57.3,1.2,Needs Support
+68.6,50.8,2.3,Needs Support
+44.7,44.3,1.2,Average
+77.8,60.1,5.4,Average
+61.1,97.9,2.9,Average
+58.7,77.3,1.2,Average
+49.7,97.4,4.8,Average
+84.0,84.2,2.1,Average
+59.2,89.7,4.7,Average
+54.3,64.5,1.8,Average
+55.7,85.9,4.1,Average
+71.6,88.9,2.0,Needs Support
+68.6,69.4,5.4,Strong
+69.4,86.4,0.5,Average
+69.8,86.5,0.9,Average
+100.0,69.8,2.5,Average
+54.7,61.2,1.6,Needs Support
+52.8,60.2,2.0,Needs Support
+47.4,79.3,4.4,Strong
+73.1,82.9,2.0,Average
+82.3,66.1,3.5,Strong
+59.9,78.4,1.3,Needs Support
+46.9,86.6,0.4,Needs Support
+47.2,87.3,4.7,Average
+73.7,100.0,8.4,Strong
+75.4,97.2,3.3,Average
+71.8,63.0,2.6,Needs Support
+50.0,100.0,3.0,Needs Support
+66.2,70.0,6.7,Average
+64.1,93.7,3.3,Average
+65.9,79.0,4.8,Needs Support
+77.7,71.8,4.7,Average
+66.0,50.9,5.7,Needs Support
+74.2,75.4,2.6,Average
+63.2,54.6,1.8,Average
+67.2,92.5,4.1,Strong
+73.4,100.0,5.4,Strong
+35.8,66.0,6.1,Needs Support
+56.2,82.5,7.2,Average
+53.5,67.1,5.1,Needs Support
+50.5,68.6,1.7,Needs Support
+57.0,89.6,3.3,Average
+88.9,77.4,3.1,Strong
+46.4,100.0,2.8,Average
+79.4,70.8,4.1,Average
+31.7,93.0,2.4,Needs Support
+56.0,79.5,2.4,Average
+64.9,89.9,8.7,Strong
+72.6,71.3,2.7,Strong
+74.8,77.3,5.7,Average
+76.3,76.3,5.9,Average
+55.7,65.5,3.3,Average
+53.7,87.9,2.5,Needs Support
+77.4,87.8,1.4,Average
+58.6,86.9,0.6,Average
+39.0,100.0,4.3,Average
+41.6,99.7,3.7,Needs Support
+45.4,72.4,4.7,Average
+70.9,83.6,1.9,Strong
+64.6,68.6,9.3,Strong
+74.4,78.4,4.0,Average
+54.3,69.0,2.6,Average
+64.9,100.0,0.3,Average
+73.3,83.5,2.1,Average
+56.4,74.7,4.9,Strong
+70.2,95.9,7.1,Strong
+50.1,45.4,2.9,Needs Support
+55.5,47.8,7.9,Average
+55.1,89.9,1.3,Needs Support
+40.5,78.9,3.8,Needs Support
+70.8,81.8,3.9,Average
+53.6,58.1,4.3,Needs Support
+62.2,77.7,3.2,Strong
+70.7,100.0,3.7,Strong
+70.0,90.4,1.3,Average
+74.0,80.5,6.7,Average
+60.2,71.4,5.3,Average
+54.4,72.1,3.6,Average
+60.6,46.1,5.4,Needs Support
+31.6,81.9,6.8,Average
+36.0,90.7,4.3,Average
+38.2,54.4,10.0,Average
+44.0,68.1,4.5,Average
+69.2,60.6,1.4,Strong
+45.7,63.5,3.4,Needs Support
+55.2,78.8,5.5,Strong
+85.4,46.7,6.8,Strong
+55.6,87.2,3.2,Needs Support
+75.3,89.3,1.3,Average
+45.2,74.2,2.4,Needs Support
+58.3,40.8,0.9,Needs Support
+44.9,63.1,4.9,Average
+55.9,96.5,2.1,Average
+77.1,36.3,1.6,Average
+30.9,72.8,5.2,Average
+69.8,60.3,7.8,Average
+66.3,90.1,1.6,Needs Support
+51.3,67.9,3.3,Average
+36.0,84.1,2.5,Needs Support
+63.3,86.5,7.0,Strong
+52.5,100.0,2.7,Strong
+66.2,75.0,1.2,Strong
+62.4,83.6,2.8,Average
+90.8,55.7,6.1,Average
+57.7,95.9,2.4,Average
+43.6,66.6,1.8,Needs Support
+65.2,69.6,2.6,Average
+66.0,77.7,1.3,Average
+86.5,54.6,2.5,Average
+77.0,81.4,1.9,Average
+68.4,92.5,11.1,Strong
+88.3,82.4,0.4,Strong
+40.6,54.2,1.4,Needs Support
+50.5,76.1,1.8,Average
+45.3,89.1,1.3,Average
+55.0,49.8,3.8,Average
+37.2,61.9,1.6,Needs Support
+73.4,91.1,0.8,Strong
+58.0,82.1,3.1,Average
+35.5,84.2,2.3,Needs Support
+43.7,100.0,1.7,Needs Support
+67.6,85.0,6.9,Strong
+77.1,87.9,3.9,Strong
+97.9,100.0,3.6,Strong
+100.0,74.8,4.0,Strong
+69.5,66.0,3.8,Strong
+44.2,84.4,2.4,Average
+23.6,84.6,1.6,Needs Support
+66.8,70.1,3.1,Strong
+47.4,62.5,2.3,Average
+54.5,100.0,0.4,Average
+51.0,82.9,1.2,Needs Support
+59.5,67.0,2.1,Average
+81.2,91.7,5.2,Average
+64.8,76.4,3.1,Average
+59.1,74.2,1.4,Needs Support
+43.4,86.4,1.1,Average
+31.9,58.6,6.0,Needs Support
+53.2,83.3,2.5,Average
+61.0,100.0,0.1,Average
+93.8,85.0,2.6,Strong
+64.3,72.4,4.5,Strong
+79.7,70.4,1.1,Strong
+53.0,71.8,2.9,Average
+40.7,74.2,3.1,Needs Support
+44.6,72.3,1.1,Average
+48.9,91.7,6.4,Strong
+100.0,52.0,3.2,Average
+47.2,90.9,2.1,Average
+77.1,72.3,2.5,Needs Support
+45.7,83.7,0.9,Average
+78.8,61.1,0.9,Strong
+68.9,97.9,2.0,Average
+59.2,96.7,2.1,Needs Support
+61.3,92.4,2.3,Average
+50.2,55.3,6.7,Needs Support
+70.0,90.4,4.3,Average
+53.8,84.1,0.5,Average
+39.9,53.9,5.9,Average
+39.0,77.6,1.9,Needs Support
+65.1,83.5,4.6,Average
+90.4,86.3,2.1,Strong
+64.9,80.7,3.0,Average
+59.9,82.4,1.0,Needs Support
+67.1,100.0,3.5,Average
+85.5,96.4,5.0,Strong
+65.9,35.0,0.6,Needs Support
+54.6,73.2,5.0,Needs Support
+81.9,75.5,1.6,Strong
+69.7,51.7,8.1,Needs Support
+89.6,79.4,4.7,Strong
+65.3,96.7,4.2,Average
+40.0,61.7,2.5,Needs Support
+37.4,83.0,12.0,Strong
+91.7,64.3,2.0,Strong
+93.0,67.9,1.2,Average
+58.8,100.0,1.7,Average
+55.1,69.9,5.6,Average
+88.3,84.9,3.0,Average
+42.1,49.9,2.7,Average
+45.9,100.0,2.0,Needs Support
+73.6,87.0,2.6,Strong
+54.9,75.3,1.9,Average
+61.9,86.6,4.4,Average
+59.1,56.9,2.3,Needs Support
+68.1,95.7,1.7,Strong
+87.3,73.1,5.3,Average
+63.6,74.9,1.2,Average
+73.6,70.6,3.0,Average
+25.1,69.3,0.4,Needs Support
+61.1,88.4,0.8,Average
+46.8,81.8,2.1,Average
+40.1,87.8,1.8,Needs Support
+46.2,77.9,1.8,Average
+56.0,85.7,4.7,Average
+78.5,71.7,4.9,Average
+38.1,100.0,3.5,Average
+62.6,54.5,1.2,Needs Support
+53.3,96.9,2.6,Average
+56.1,98.5,8.9,Strong
+80.0,65.2,11.7,Strong
+71.7,100.0,5.3,Average
+86.1,92.9,1.2,Average
+59.2,92.6,2.6,Average
+49.5,78.4,3.3,Needs Support
+58.0,74.7,3.0,Average
+66.4,74.9,5.7,Strong
+65.2,83.9,4.6,Average
+42.5,99.0,1.2,Needs Support
+63.6,80.7,1.7,Strong
+66.1,64.3,5.3,Average
+100.0,90.4,6.9,Strong
+95.8,91.8,3.3,Strong
+46.6,87.8,7.4,Average
+56.8,89.2,3.1,Needs Support
+35.7,73.9,1.3,Average
+51.4,64.1,4.3,Needs Support
+67.7,65.0,12.0,Strong
+83.7,53.5,0.9,Average
+48.9,81.6,7.2,Average
+50.2,76.7,4.1,Average
+23.3,71.4,1.6,Needs Support
+59.1,33.7,0.4,Needs Support
+42.9,59.3,0.3,Needs Support
+52.5,94.8,1.8,Average
+46.2,68.0,3.7,Needs Support
+60.3,83.4,5.1,Strong
+30.4,57.1,5.8,Average
+35.6,99.6,3.5,Average
+100.0,75.8,3.1,Strong
+38.8,82.4,2.2,Average
+42.3,100.0,3.8,Needs Support
+95.1,100.0,1.6,Strong
+100.0,73.4,1.0,Average
+40.9,69.1,3.0,Needs Support
+55.4,73.1,4.8,Needs Support
+68.1,85.6,0.8,Average
+93.1,76.4,1.8,Average
+44.2,72.1,2.9,Average
+57.6,100.0,2.8,Needs Support
+76.0,76.3,4.1,Needs Support
+69.8,100.0,8.7,Strong
+55.2,79.4,0.3,Average
+59.6,100.0,9.0,Average
+37.3,83.4,8.5,Average
+57.7,92.4,5.1,Strong
+57.2,67.1,3.3,Average
+66.2,65.2,1.7,Average
+52.0,84.9,5.1,Strong
+70.5,92.8,3.4,Average
+80.2,78.6,2.2,Average
+64.8,58.7,5.0,Average
+68.3,57.6,5.6,Average
+63.0,56.6,6.8,Average
+62.0,51.5,1.5,Average
+49.0,79.6,6.3,Average
+67.7,94.9,2.2,Average
+60.2,77.8,3.3,Average
+99.7,44.1,3.8,Average
+90.3,75.1,5.9,Strong
+68.9,75.6,4.6,Average
+48.3,100.0,2.2,Average
+42.0,56.1,0.3,Needs Support
+83.4,72.1,4.0,Strong
+66.7,100.0,3.2,Average
+70.6,84.7,0.9,Strong
+30.6,86.4,3.5,Needs Support
+78.7,79.7,2.9,Average
+70.2,82.9,6.8,Strong
+42.0,89.7,9.4,Average
+53.5,65.9,5.5,Strong
+66.7,91.2,2.7,Average
+62.9,57.4,3.1,Average
+56.7,82.9,1.5,Average
+60.1,80.7,1.7,Average
+57.5,68.8,2.6,Needs Support
+64.7,77.7,2.4,Average
+88.5,68.7,0.9,Average
+15.8,61.9,6.8,Needs Support
+57.7,72.7,7.5,Average
+65.2,61.4,6.7,Strong
+67.3,82.8,7.6,Strong
+55.3,60.7,11.1,Average
+30.4,88.7,1.5,Needs Support
+67.9,60.3,10.8,Average
+93.1,69.5,2.2,Strong
+34.4,68.6,4.5,Average
+77.5,97.9,0.7,Strong
+56.1,83.0,2.0,Needs Support
+60.9,74.8,5.6,Average
+43.0,85.5,4.6,Average
+56.0,46.4,2.1,Needs Support
+85.4,77.4,3.1,Strong
+72.5,100.0,1.8,Strong
+93.2,80.0,5.6,Strong
+83.2,79.0,7.1,Average
+69.9,86.2,1.5,Average
+93.4,91.4,2.8,Strong
+69.9,48.0,0.8,Average
+76.9,52.8,3.4,Average
+56.7,81.2,4.1,Average
+63.2,67.3,3.6,Average
+49.4,97.7,3.9,Average
+79.8,73.3,2.6,Average
+40.8,49.0,2.7,Needs Support
+76.1,59.0,2.6,Average
+58.6,36.8,1.9,Needs Support
+83.1,74.5,2.1,Average
+75.5,75.2,4.0,Average
+94.8,71.6,6.8,Strong
+75.2,94.2,1.3,Strong
+33.7,96.0,2.6,Average
+60.8,75.4,1.1,Average
+40.9,46.0,1.9,Needs Support
+52.7,87.3,2.2,Needs Support
+89.2,86.3,3.2,Strong
+73.5,82.6,3.2,Average
+49.4,92.7,2.8,Needs Support
+43.8,60.5,3.8,Needs Support
+62.6,100.0,1.4,Average
+40.1,63.6,3.2,Needs Support
+49.9,89.2,4.7,Strong
+67.6,52.7,1.4,Average
+82.8,64.0,0.5,Strong
+73.0,100.0,5.5,Strong
+20.8,74.1,1.1,Needs Support
+67.5,90.6,1.9,Average
+63.3,81.6,4.6,Average
+69.5,76.4,1.3,Average
+91.1,98.5,5.3,Average
+24.9,74.5,1.6,Needs Support
+51.4,51.3,1.5,Needs Support
+72.6,66.0,1.1,Average
+33.5,86.3,1.7,Average
+88.6,83.9,4.2,Strong
+68.6,54.5,1.9,Average
+77.2,67.1,5.6,Average
+51.7,69.3,2.9,Needs Support
+76.6,72.5,3.1,Average
+81.2,57.4,1.4,Strong
+66.2,68.6,6.1,Needs Support
+66.2,67.1,4.7,Average
+66.9,89.6,4.6,Strong
+46.5,90.1,2.5,Needs Support
+59.3,75.8,0.9,Average
+59.3,72.1,3.2,Needs Support
+68.9,80.1,4.1,Strong
+80.0,65.8,4.1,Average
+42.9,60.8,3.7,Needs Support
+59.7,63.9,3.6,Strong
+88.7,68.5,1.6,Strong
+48.6,60.5,1.7,Needs Support
+47.2,80.4,1.1,Needs Support
+65.6,88.9,5.6,Strong
+77.2,54.2,9.1,Average
+62.2,78.4,12.0,Average
+85.9,74.7,3.4,Strong
+77.4,83.1,3.6,Average
+77.2,77.8,2.6,Strong
+72.0,56.2,3.3,Average
+100.0,59.1,1.3,Average
+58.3,78.4,2.5,Average
+25.9,93.4,1.5,Needs Support
+90.9,44.8,2.3,Average
+53.8,83.2,1.6,Average
+63.9,95.8,4.1,Strong
+85.6,75.7,4.4,Strong
+33.2,86.3,3.6,Needs Support
+39.5,67.5,1.7,Needs Support
+33.2,76.2,1.0,Needs Support
+47.7,53.7,4.5,Strong
+69.9,42.8,2.9,Average
+71.4,92.1,0.5,Strong
+67.0,63.2,3.2,Strong
+36.6,71.2,3.7,Needs Support
+20.4,57.2,0.7,Needs Support
+63.0,56.9,4.1,Average
+53.5,75.4,0.8,Average
+70.3,67.1,1.6,Average
+74.6,83.7,0.8,Strong
+64.5,84.8,1.4,Needs Support
+75.7,82.8,1.0,Average
+66.1,81.6,5.6,Strong
+71.5,100.0,2.4,Average
+49.3,62.0,2.0,Needs Support
+58.8,77.2,5.9,Average
+65.5,95.0,5.7,Strong
+76.8,97.0,2.2,Strong
+54.9,56.7,3.5,Average
+71.4,73.3,1.8,Average
+57.2,98.4,2.7,Strong
+59.9,85.6,1.2,Average
+76.9,80.9,3.9,Strong
+26.1,74.7,6.1,Needs Support
+38.7,72.2,5.4,Needs Support
+35.3,82.3,3.0,Needs Support
+20.0,74.2,0.5,Needs Support
+49.8,77.4,1.8,Needs Support
+75.5,79.2,2.7,Average
+56.9,67.8,0.9,Needs Support
+65.6,86.0,0.8,Needs Support
+81.6,100.0,7.2,Strong
+85.9,51.3,5.0,Average
+60.8,82.9,4.1,Average
+86.4,66.6,4.6,Average
+63.7,86.7,1.0,Needs Support
+46.9,78.7,1.4,Average
+51.3,89.4,3.4,Average
+35.4,95.6,3.5,Needs Support
+46.0,80.9,0.8,Needs Support
+55.6,95.0,3.2,Average
+76.5,42.8,2.7,Average
+93.0,100.0,5.3,Strong
+37.1,83.6,3.6,Average
+69.1,94.2,7.7,Strong
+43.3,59.7,2.2,Average
+70.5,65.5,1.1,Average
+59.6,80.2,7.6,Needs Support
+29.0,77.7,3.7,Average
+78.7,82.2,2.7,Strong
+51.1,94.3,1.4,Average
+52.4,51.5,2.2,Average
+42.7,92.6,2.1,Average
+50.2,78.1,1.1,Needs Support
+69.7,74.9,0.3,Average
+58.6,55.9,2.1,Needs Support
+67.9,85.5,4.7,Strong
+68.5,41.8,6.4,Needs Support
+85.8,87.7,5.4,Strong
+55.8,55.6,5.6,Strong
+35.4,78.8,1.2,Needs Support
+81.2,76.2,3.4,Average
+56.0,95.5,4.1,Average
+82.1,75.3,4.3,Strong
+68.9,67.6,2.7,Average
+59.6,70.4,3.1,Average
+68.3,97.1,5.3,Strong
+97.1,86.0,4.0,Strong
+99.4,72.2,4.5,Strong
+63.2,74.5,2.0,Average
+64.9,54.5,4.3,Average
+81.4,83.8,3.1,Strong
+46.8,51.6,5.0,Strong
+68.0,89.3,1.6,Strong
+61.5,79.9,4.7,Average
+67.7,100.0,2.2,Average
+47.0,61.5,4.7,Average
+33.4,76.5,3.4,Average
+24.7,100.0,2.9,Average
+41.9,95.9,2.3,Average
+53.7,67.6,2.7,Average
+56.7,81.4,2.1,Needs Support
+96.9,78.0,2.3,Strong
+81.9,82.2,3.9,Average
+44.7,67.5,0.6,Needs Support
+68.3,76.7,4.7,Average
+54.7,54.0,4.7,Average
+56.9,80.0,2.4,Average
+65.3,84.8,3.2,Average
+73.1,74.6,1.3,Average
+55.9,53.8,3.8,Needs Support
+81.1,92.8,1.5,Average
+41.4,83.5,0.1,Needs Support
+62.1,67.1,6.3,Needs Support
+100.0,73.8,1.2,Strong
+66.0,55.5,2.7,Needs Support
+87.8,62.6,3.3,Strong
+63.6,69.9,3.9,Strong
+72.5,96.4,2.9,Average
+61.0,68.4,3.5,Average
+58.9,87.6,2.3,Average
+48.0,69.9,0.7,Needs Support
+69.7,81.7,2.8,Average
+46.7,75.9,4.3,Average
+74.0,91.1,1.3,Average
+81.5,70.0,3.3,Strong
+68.6,54.4,8.7,Average
+56.8,57.3,2.7,Average
+70.2,70.0,2.8,Average
+56.4,59.3,0.7,Average
+78.8,84.2,1.1,Average
+29.0,71.0,1.5,Needs Support
+56.0,100.0,4.2,Average
+26.2,51.9,1.3,Needs Support
+35.1,81.1,0.5,Average
+86.5,61.1,3.7,Strong
+78.1,70.6,1.6,Average
+49.0,80.1,0.7,Needs Support
+35.0,43.1,4.5,Needs Support
+8.6,81.6,2.1,Average
+52.2,100.0,3.9,Average
+100.0,71.2,0.7,Strong
+69.8,81.9,0.3,Average
+51.9,93.4,3.1,Average
+70.4,75.5,1.1,Average
+33.9,69.3,3.0,Needs Support
+56.6,43.9,3.1,Needs Support
+63.8,87.6,2.8,Average
+60.5,76.3,5.6,Strong
+76.2,62.8,12.0,Strong
+68.2,79.9,3.7,Strong
+74.0,69.2,8.7,Strong
+49.6,70.1,2.2,Average
+78.2,87.1,0.9,Average
+91.3,57.9,1.7,Strong
+44.5,93.7,2.3,Average
+46.0,57.0,9.1,Needs Support
+86.0,68.1,2.9,Average
+58.6,100.0,5.7,Strong
+87.3,94.9,2.0,Strong
+54.0,79.5,1.8,Average
+88.2,63.9,0.6,Strong
+64.4,70.1,9.0,Strong
+66.6,79.1,7.0,Strong
+90.2,78.6,3.3,Average
+55.5,76.6,2.4,Average
+45.1,77.5,3.0,Average
+53.9,74.8,0.9,Needs Support
+70.1,56.4,3.9,Average
+33.8,70.3,6.6,Needs Support
+73.5,91.7,6.8,Strong
+52.3,57.5,0.7,Average
+82.7,75.2,5.7,Strong
+18.9,65.7,0.9,Needs Support
+47.8,79.7,0.3,Average
+31.6,72.2,5.8,Average
+47.1,100.0,1.9,Average
+66.5,85.6,5.3,Strong
+58.8,58.3,5.0,Average
+57.4,88.1,4.6,Strong
+59.1,66.4,3.0,Average
+65.7,69.3,1.0,Needs Support
+43.8,82.7,2.3,Average
+74.7,70.6,6.9,Strong
+73.9,91.4,5.4,Strong
+68.9,66.4,2.4,Strong
+72.0,68.7,2.3,Average
+67.3,68.2,4.3,Average
+98.6,69.5,3.1,Strong
+60.4,94.5,2.4,Needs Support
+56.5,87.4,4.1,Average
+48.4,100.0,4.0,Average
+43.4,100.0,1.7,Needs Support
+39.6,62.5,3.6,Average
+46.0,79.1,3.8,Average
+60.7,60.4,2.8,Average
+68.0,66.3,1.6,Average
+62.9,68.5,2.2,Average
+48.2,62.1,1.3,Average
+78.2,62.2,3.7,Average
+75.3,75.8,0.7,Average
+59.1,59.7,7.4,Strong
+50.2,90.6,6.4,Needs Support
+71.9,64.2,3.9,Average
+65.4,100.0,5.2,Average
+35.9,71.2,5.0,Needs Support
+60.8,79.1,3.2,Average
+66.7,58.6,2.5,Average
+45.8,100.0,2.3,Strong
+65.4,94.8,7.5,Strong
+35.8,82.5,1.5,Needs Support
+86.1,57.8,1.5,Strong
+84.5,81.2,5.5,Strong
+57.5,61.2,5.2,Strong
+68.5,99.9,2.4,Average
+18.6,90.1,4.2,Average
+41.2,79.4,4.5,Average
+56.7,41.5,0.9,Needs Support
+42.7,63.2,6.7,Average
+74.9,88.3,4.5,Average
+98.0,96.2,3.9,Strong
+40.8,94.6,4.6,Average
+46.9,54.1,3.6,Needs Support
+66.2,82.5,2.7,Average
+91.0,93.2,3.2,Strong
+40.0,53.1,0.9,Needs Support
+66.5,77.9,9.5,Strong
+94.8,82.1,2.7,Average
+32.3,73.5,9.4,Average
+38.9,50.2,3.2,Needs Support
+54.4,73.1,1.8,Average
+52.6,73.1,6.6,Strong
+76.6,75.8,3.8,Average
+66.3,69.5,11.6,Strong
+30.1,71.4,1.8,Needs Support
+71.3,77.4,6.7,Average
+51.6,84.6,7.0,Strong
+84.9,73.4,4.8,Average
+50.7,71.9,7.0,Needs Support
+50.5,79.4,2.7,Needs Support
+71.7,49.2,1.5,Average
+75.7,85.2,2.0,Strong
+70.1,78.0,3.1,Average
+31.7,78.6,5.0,Average
+71.7,92.4,1.6,Needs Support
+43.4,48.7,2.3,Average
+66.2,48.4,1.7,Needs Support
+36.4,82.1,5.6,Average
+70.0,77.9,9.3,Average
+47.5,80.6,1.3,Average
+38.9,71.1,4.3,Average
+74.8,88.0,6.0,Strong
+66.3,92.0,2.5,Needs Support
+50.9,85.3,0.9,Average
+88.1,74.1,6.5,Average
+54.1,46.4,0.8,Needs Support
+62.6,89.5,7.8,Strong
+66.8,96.3,1.7,Strong
+50.8,87.7,0.7,Needs Support
+70.5,64.8,2.1,Average
+52.4,88.1,2.9,Strong
+54.6,90.9,3.4,Needs Support
+86.5,100.0,4.5,Strong
+43.3,64.9,3.6,Average
+18.6,74.6,8.8,Needs Support
+91.0,89.2,2.8,Average
+100.0,78.9,3.7,Strong
+54.7,61.2,3.5,Needs Support
+27.1,84.2,0.6,Needs Support
+56.4,86.7,1.1,Average
+56.8,79.3,3.1,Average
+58.6,81.3,4.0,Average
+42.0,74.1,0.4,Needs Support
+72.4,100.0,9.1,Strong
+71.4,64.5,4.2,Strong
+35.1,69.2,3.0,Average
+74.6,78.2,4.1,Average
+98.9,91.2,2.0,Strong
+65.1,55.5,3.4,Needs Support
+55.9,58.3,3.8,Average
+59.4,47.4,6.6,Needs Support
+73.1,78.5,2.6,Average
+30.8,61.2,0.9,Needs Support
+65.0,72.2,1.5,Average
+55.0,87.9,2.5,Average
+95.3,68.4,1.0,Strong
+58.9,81.5,1.3,Average
+92.0,73.5,1.5,Average
+42.1,88.1,2.4,Average
+72.6,85.1,4.2,Average
+67.7,67.6,2.3,Strong
+46.4,75.5,4.4,Needs Support
+65.2,93.7,3.0,Needs Support
+83.8,83.9,1.4,Average
+56.2,57.0,3.8,Average
+31.5,87.8,3.4,Average
+61.7,61.7,4.5,Average
+45.8,99.2,5.1,Average
+55.8,93.4,6.7,Strong
+60.5,82.3,4.3,Average
+31.3,80.4,3.3,Needs Support
+32.9,74.9,4.5,Average
+70.7,88.2,2.1,Needs Support
+52.6,72.4,2.0,Average
+15.8,81.5,7.3,Average
+76.1,91.1,1.9,Strong
+66.9,69.6,1.5,Average
+49.2,68.8,4.3,Average
+38.3,60.1,2.1,Needs Support
+77.0,62.0,5.1,Average
+68.3,50.6,6.4,Average
+100.0,88.9,1.7,Strong
+69.6,100.0,4.7,Strong
+69.0,99.4,1.9,Strong
+59.0,53.6,2.5,Average
+76.7,88.9,3.7,Strong
+73.3,99.3,2.0,Average
+84.5,71.1,3.5,Average
+52.6,79.5,2.7,Average
+54.2,47.9,5.2,Needs Support
+53.4,82.0,5.2,Average
+76.2,62.0,2.0,Average
+89.0,81.0,3.8,Average
+53.7,54.6,5.7,Average
+54.4,86.1,1.3,Average
+67.7,93.4,2.7,Average
+57.6,66.3,3.6,Average
+79.1,60.9,1.3,Average
+21.5,45.7,2.2,Needs Support
+47.1,74.0,8.3,Strong
+47.9,69.3,1.9,Average
+20.2,54.7,2.1,Needs Support
+44.7,84.8,4.3,Strong
+45.5,71.3,1.1,Needs Support
+58.4,61.9,2.7,Needs Support
+82.0,69.7,1.5,Average
+57.6,94.1,3.5,Average
+43.4,87.0,0.1,Needs Support
+61.0,76.0,3.1,Average
+80.9,87.3,3.7,Average
+44.4,60.6,2.2,Average
+45.6,78.5,2.3,Average
+72.1,80.2,2.0,Average
+58.0,71.0,2.7,Average
+73.7,84.5,7.4,Strong
+61.8,66.3,5.3,Average
+74.6,85.6,2.7,Average
+43.4,86.3,2.2,Needs Support
+61.8,34.2,4.9,Needs Support
+58.2,95.9,3.3,Average
+40.1,32.3,1.2,Needs Support
+33.9,68.8,2.5,Needs Support
+74.3,93.4,6.9,Strong
+55.7,73.2,4.2,Needs Support
+43.6,56.0,2.2,Needs Support
+60.3,61.6,0.8,Average
+82.3,93.4,3.5,Strong
+20.9,49.2,3.0,Needs Support
+35.1,94.9,2.6,Needs Support
+45.4,77.2,5.0,Needs Support
+88.3,60.1,4.2,Average
+67.1,69.3,0.8,Average
+75.8,62.7,3.0,Average
+41.5,91.0,1.0,Average
+41.8,89.0,2.0,Average
+70.1,52.2,1.0,Needs Support
+63.0,71.9,1.0,Average
+71.9,65.1,3.7,Average
+58.6,97.4,3.5,Average
+67.0,57.7,2.8,Average
+64.8,100.0,1.9,Average
+76.0,77.5,0.9,Needs Support
+76.5,60.6,2.1,Average
+32.8,67.8,3.5,Needs Support
+21.5,66.0,3.5,Needs Support
+80.0,58.9,6.8,Strong
+83.4,79.4,6.2,Average
+43.6,59.6,2.9,Average
+28.5,45.3,2.0,Needs Support
+63.8,72.3,1.6,Average
+78.8,51.0,0.8,Average
+94.4,66.7,1.1,Average
+71.3,64.4,3.5,Average
+55.3,64.9,4.4,Needs Support
+45.9,100.0,2.4,Average
+62.2,78.8,11.4,Average
+56.6,81.7,1.2,Average
+43.7,51.4,0.7,Needs Support
+98.9,68.2,11.3,Strong
+94.1,81.2,0.9,Average
+82.4,62.6,2.3,Average
+45.4,91.6,1.7,Strong
+77.4,60.0,3.7,Strong
+73.5,73.7,2.2,Strong
+70.0,69.2,4.4,Average
+84.5,80.5,5.0,Average
+73.4,68.4,0.8,Average
+75.3,73.9,1.5,Average
+73.5,74.5,4.7,Strong
+68.1,67.0,5.7,Average
+29.9,85.3,3.2,Needs Support
+63.5,81.6,3.9,Average
+52.0,76.7,7.1,Average
+39.0,71.5,2.2,Average
+92.3,89.9,3.2,Strong
+93.1,74.5,6.2,Average
+86.5,73.4,6.4,Strong
+66.6,79.6,2.7,Strong
+86.3,100.0,1.6,Strong
+62.2,57.9,2.7,Needs Support
+65.7,89.5,2.9,Average
+42.3,49.6,1.5,Needs Support
+69.1,81.3,1.7,Strong
+63.1,100.0,6.4,Average
+38.6,85.3,4.0,Average
+61.1,80.6,2.3,Average
+60.6,69.6,1.2,Average
+94.4,78.5,1.7,Average
+78.1,74.2,0.7,Needs Support
+62.2,66.2,3.3,Average
+66.5,73.7,1.6,Strong
+62.8,81.0,3.5,Average
+58.3,66.5,4.6,Average
+42.5,65.9,3.5,Needs Support
+59.3,57.6,2.1,Needs Support
+48.6,83.9,1.5,Average
+39.5,86.2,1.1,Average
+71.2,81.5,6.0,Strong
+69.0,92.5,3.4,Strong
+29.8,79.3,2.2,Needs Support
+59.8,83.9,4.2,Average
+79.9,82.6,5.4,Strong
+81.1,76.6,1.7,Average
+80.5,70.0,3.4,Strong
+62.7,100.0,3.4,Average
+46.8,71.2,6.9,Needs Support
+42.5,68.0,2.2,Needs Support
+68.2,84.5,1.4,Average
+68.8,81.8,3.6,Strong
+85.2,56.9,4.5,Strong
+81.8,94.8,3.2,Strong
+59.6,76.6,7.2,Average
+39.6,61.3,2.2,Needs Support
+56.3,95.8,3.2,Average
+65.9,87.4,0.8,Average
+58.4,59.0,1.3,Needs Support
+51.6,100.0,1.7,Strong
+66.6,87.9,2.5,Strong
+52.9,77.8,1.0,Average
+50.7,100.0,4.2,Average
+67.6,80.4,1.6,Average
+54.8,77.6,10.2,Average
+66.4,68.1,1.6,Average
+66.9,86.7,3.0,Average
+41.5,85.1,2.7,Average
+53.3,78.2,1.3,Average
+87.9,66.2,2.5,Strong
+41.1,79.9,2.5,Needs Support
+23.9,77.0,5.0,Needs Support
+28.5,58.0,3.7,Average
+62.5,55.9,4.1,Average
+62.6,86.5,5.0,Average
+59.9,39.0,4.2,Average
+83.9,81.1,3.3,Strong
+13.9,70.8,1.7,Needs Support
+69.1,97.6,3.2,Strong
+90.1,70.6,1.4,Strong
+41.7,87.9,2.6,Average
+55.2,72.0,2.4,Average
+48.4,79.7,2.5,Needs Support
+45.9,89.1,1.0,Needs Support
+56.1,71.1,0.1,Average
+87.7,92.9,2.1,Strong
+95.1,63.1,5.7,Needs Support
+56.0,82.4,3.0,Average
+96.3,91.8,5.5,Strong
+62.6,87.9,1.4,Needs Support
+93.6,100.0,2.0,Strong
+60.3,66.5,10.5,Needs Support
+64.4,57.3,1.5,Average
+68.6,63.1,4.1,Average
+100.0,87.9,4.1,Average
+77.3,85.5,3.8,Strong
+49.3,79.5,4.1,Average
+79.4,61.2,1.5,Average
+55.5,89.5,2.1,Average
+53.2,59.6,0.2,Needs Support
+78.4,95.4,7.0,Average
+62.6,100.0,4.1,Strong
+67.0,83.5,1.7,Strong
+62.3,86.7,1.4,Strong
+68.1,70.6,5.8,Needs Support
+69.6,50.8,1.6,Needs Support
+27.1,69.0,1.7,Needs Support
+74.0,61.6,1.2,Needs Support
+44.3,56.3,4.6,Needs Support
+36.0,100.0,5.4,Average
+60.9,82.1,2.4,Needs Support
+63.5,83.7,5.4,Strong
+49.5,73.4,3.6,Average
+77.0,75.4,1.1,Average
+37.8,92.5,6.7,Average
+54.7,77.5,1.2,Needs Support
+51.5,86.0,2.5,Average
+61.2,75.1,2.4,Average
+67.0,72.9,2.1,Average
+43.9,56.9,0.5,Needs Support
+75.0,48.3,9.2,Strong
+63.1,74.1,0.5,Average
+27.9,78.8,7.0,Average
+26.7,58.7,1.4,Needs Support
+61.8,77.5,1.8,Average
+58.0,78.8,6.5,Average
+60.1,45.7,3.8,Average
+61.5,64.3,0.9,Needs Support
+66.1,84.1,0.8,Average
+79.1,83.8,3.5,Average
+42.0,60.7,1.2,Needs Support
+40.9,80.4,4.0,Average
+42.3,93.3,4.2,Average
+67.2,89.7,1.5,Average
+84.4,76.6,1.9,Average
+54.2,71.0,3.5,Needs Support
+17.0,68.6,1.5,Needs Support
+31.3,85.0,3.0,Needs Support
+47.0,80.9,10.9,Strong
+52.0,87.4,3.7,Average
+54.6,80.0,2.1,Strong
+62.7,90.3,9.8,Strong
+56.4,79.4,4.8,Average
+80.9,89.8,1.2,Average
+49.8,91.1,1.4,Needs Support
+46.5,65.9,0.6,Average
+70.6,50.9,3.5,Strong
+34.4,100.0,0.4,Average
+69.0,81.8,9.8,Average
+63.8,52.3,2.3,Strong
+59.3,67.3,5.0,Average
+90.6,89.6,2.2,Strong
+50.8,73.8,3.5,Average
+99.1,70.3,2.5,Strong
+57.9,99.0,2.9,Strong
+39.0,62.3,6.1,Average
+63.3,66.0,8.0,Average
+42.6,81.2,7.6,Average
+48.5,83.9,12.0,Average
+69.1,85.4,1.6,Average
+72.0,91.7,3.7,Strong
+50.8,81.0,1.6,Average
+79.8,85.3,5.9,Strong
+82.8,74.1,1.3,Average
+87.9,78.9,6.2,Strong
+71.5,79.6,3.2,Strong
+86.5,81.2,2.6,Strong
+28.1,89.6,2.9,Needs Support
+56.3,86.3,1.1,Needs Support
+46.4,78.7,1.2,Average
+64.1,65.9,3.3,Needs Support
+51.7,79.0,3.3,Average
+59.0,77.6,1.7,Strong
+95.9,80.9,2.3,Average
+58.9,100.0,3.9,Average
+69.4,70.1,1.5,Average
+57.8,84.3,0.5,Average
+63.4,94.0,7.2,Strong
+62.1,79.5,3.4,Average
+70.1,100.0,1.9,Average
+83.0,72.3,1.6,Strong
+91.7,82.9,1.5,Strong
+67.6,66.0,5.9,Strong
+72.6,72.7,0.9,Average
+41.3,81.7,3.7,Average
+60.4,90.7,3.7,Needs Support
+78.9,82.8,4.7,Average
+77.6,96.9,2.1,Strong
+65.8,76.6,6.8,Average
+78.0,73.0,4.8,Needs Support
+70.8,100.0,2.0,Average
+83.6,83.9,1.6,Strong
+67.2,67.2,2.5,Average
+55.6,67.6,2.0,Needs Support
+68.0,63.9,1.4,Needs Support
+9.2,92.0,3.0,Needs Support
+68.9,72.5,2.3,Average
+0.0,79.9,7.8,Needs Support
+31.0,77.0,2.0,Average
+70.1,89.0,1.6,Strong
+70.6,65.3,2.8,Strong
+41.1,61.9,3.4,Average
+49.2,81.4,3.5,Average
+86.7,87.0,3.5,Strong
+53.3,83.0,2.9,Average
+100.0,65.9,2.7,Average
+62.0,88.2,4.3,Average
+69.3,66.8,1.3,Average
+91.1,70.2,1.6,Average
+64.4,63.8,0.7,Average
+44.0,97.5,1.3,Average
+60.0,87.5,5.5,Strong
+61.4,87.1,4.1,Strong
+37.4,96.7,8.5,Average
+57.4,100.0,7.2,Strong
+48.6,52.4,4.2,Needs Support
+78.6,66.9,3.1,Average
+62.6,68.8,2.9,Average
+56.9,65.2,0.4,Needs Support
+60.1,61.8,2.6,Strong
+66.0,73.5,1.8,Average
+73.1,59.8,1.3,Average
+44.0,83.0,3.7,Strong
+43.3,78.8,2.4,Needs Support
+81.9,85.2,3.0,Strong
+54.6,85.6,1.2,Average
+36.5,87.0,4.9,Strong
+70.0,72.4,2.0,Average
+70.3,100.0,3.6,Strong
+34.4,81.5,2.1,Average
+66.1,50.1,0.3,Average
+75.2,63.0,3.8,Average
+68.7,51.9,2.5,Average
+73.4,78.3,0.7,Strong
+36.7,76.2,1.1,Needs Support
+68.0,71.0,5.0,Average
+56.6,100.0,0.7,Average
+53.3,86.2,1.9,Average
+77.7,88.9,9.0,Strong
+88.6,64.0,3.9,Average
+94.3,63.0,4.6,Average
+85.7,78.6,2.3,Average
+60.0,80.6,0.6,Average
+68.3,50.2,3.2,Average
+75.8,75.3,1.1,Strong
+64.2,78.2,1.0,Average
+64.4,74.8,2.9,Average
+76.8,65.8,1.2,Average
+60.9,69.9,2.7,Strong
+48.9,75.3,1.6,Average
+54.5,79.4,2.6,Average
+73.4,87.1,1.8,Average
+62.1,94.2,2.7,Strong
+68.1,73.6,6.9,Average
+74.1,71.2,4.6,Strong
+55.3,84.6,2.5,Strong
+75.6,87.2,6.2,Strong
+68.8,71.5,3.6,Average
+39.8,89.9,5.9,Average
+88.0,92.7,0.8,Average
+53.0,97.4,1.2,Needs Support
+32.2,100.0,3.2,Average
+43.2,65.0,2.4,Average
+43.6,78.2,2.7,Needs Support
+62.9,78.2,4.0,Average
+57.1,76.5,3.2,Needs Support
+55.9,68.3,4.9,Average
+73.2,55.7,4.8,Average
+68.1,79.4,1.3,Average
+67.7,66.5,0.3,Strong
+69.4,79.3,1.2,Average
+73.1,66.1,1.1,Average
+24.1,61.5,2.8,Needs Support
+55.4,81.5,2.8,Average
+22.8,80.3,2.3,Needs Support
+62.6,86.7,3.7,Average
+61.9,100.0,11.5,Strong
+80.8,82.2,2.3,Strong
+83.4,85.3,3.3,Strong
+65.6,61.8,2.7,Average
+53.0,58.7,1.7,Needs Support
+70.7,100.0,4.1,Strong
+52.5,64.1,2.2,Needs Support
+62.0,62.3,1.4,Needs Support
+79.8,77.4,1.5,Strong
+52.0,76.6,5.0,Average
+76.5,64.5,4.0,Strong
+74.2,73.4,1.9,Average
+44.8,96.4,3.7,Average
+79.5,65.9,2.7,Average
+74.6,57.1,3.3,Average
+63.8,92.1,1.7,Average
+48.3,85.4,1.2,Needs Support
+46.5,68.7,2.2,Needs Support
+52.3,54.3,1.3,Needs Support
+71.8,66.8,1.2,Average
+44.8,77.2,0.8,Needs Support
+69.9,95.5,0.3,Average
+39.6,62.5,1.9,Needs Support
+58.3,76.7,5.7,Average
+64.0,88.1,4.8,Average
+100.0,42.3,7.5,Strong
+37.2,93.5,1.2,Average
+88.5,60.3,4.2,Strong
+64.7,83.0,2.5,Average
+69.4,81.7,1.5,Strong
+64.1,94.3,5.2,Strong
+70.0,86.3,2.5,Strong
+59.2,42.3,0.5,Needs Support
+88.2,66.2,4.7,Strong
+53.8,80.1,3.5,Average
+82.4,75.1,3.0,Strong
+50.4,85.2,1.0,Needs Support
+60.9,89.8,3.2,Average
+42.7,87.1,6.9,Average
+70.2,74.8,3.4,Strong
+88.0,50.3,0.7,Average
+60.6,71.2,3.6,Strong
+58.5,84.2,3.5,Strong
+41.9,61.6,4.5,Average
+57.9,87.5,3.4,Strong
+33.3,91.6,1.2,Needs Support
+45.6,79.9,2.8,Average
+66.1,32.0,2.2,Needs Support
+85.7,58.8,3.1,Average
+100.0,100.0,5.4,Strong
+51.4,69.8,1.6,Average
+87.8,48.2,8.3,Strong
+66.4,96.5,3.6,Strong
+59.3,78.2,4.8,Average
+69.8,94.6,4.3,Strong
+63.1,82.2,3.5,Average
+64.0,84.9,4.0,Average
+54.7,83.4,0.0,Needs Support
+36.8,88.5,4.3,Average
+34.2,100.0,1.3,Needs Support
+73.8,92.6,2.6,Average
+57.0,54.3,3.5,Average
+51.3,84.7,5.5,Strong
+62.2,95.1,1.3,Strong
+76.3,96.0,1.9,Average
+65.2,71.6,2.1,Average
+50.2,95.5,3.1,Average
+84.1,91.9,2.2,Strong
+90.4,100.0,4.0,Strong
+70.9,66.7,0.6,Average
+79.5,70.4,2.4,Strong
+84.4,73.4,7.3,Strong
+82.3,70.6,2.2,Average
+73.1,64.6,3.6,Strong
+72.8,36.6,5.0,Strong
+71.4,71.5,3.5,Strong
+42.2,83.5,8.7,Strong
+74.6,70.6,2.9,Average
+37.6,100.0,4.1,Average
+47.7,78.2,3.2,Average
+85.5,97.4,6.4,Strong
+77.1,81.9,2.0,Strong
+88.8,90.4,9.2,Strong
+57.1,82.2,1.6,Average
+41.3,98.5,7.8,Average
+57.7,78.8,1.2,Average
+63.8,85.4,4.2,Average
+63.4,83.5,2.7,Strong
+82.4,73.7,4.9,Average
+55.5,84.1,3.7,Average
+68.3,100.0,4.7,Average
+44.2,73.9,1.2,Average
+70.1,84.3,0.7,Strong
+62.1,96.9,1.0,Strong
+48.5,95.1,1.0,Average
+57.8,78.2,1.2,Average
+58.7,42.2,1.7,Needs Support
+57.1,85.8,1.7,Average
+93.9,44.7,2.8,Average
+60.2,100.0,1.4,Average
+57.6,80.5,1.5,Average
+24.2,93.0,2.3,Needs Support
+45.9,64.5,5.4,Average
+57.3,54.7,2.0,Needs Support
+49.7,81.9,2.6,Strong
+86.9,77.5,2.9,Strong
+59.0,70.6,1.3,Needs Support
+85.2,79.3,2.1,Average
+63.1,100.0,1.6,Average
+62.7,90.5,5.0,Average
+60.4,93.7,4.8,Strong
+62.1,90.7,1.5,Average
+92.9,100.0,2.6,Strong
+20.2,75.1,4.1,Needs Support
+26.0,47.2,3.4,Needs Support
+52.2,75.2,3.7,Average
+62.3,90.2,1.3,Average
+74.4,63.5,7.6,Average
+70.5,75.4,1.7,Needs Support
+55.1,67.6,1.7,Needs Support
+80.3,100.0,0.9,Strong
+80.5,89.2,2.4,Strong
+65.3,87.8,5.7,Strong
+79.3,87.3,3.4,Average
+66.9,77.4,2.6,Needs Support
+51.9,81.0,4.5,Average
+74.6,60.2,5.6,Needs Support
+64.0,45.2,4.8,Average
+62.0,80.3,0.5,Needs Support
+88.5,82.9,4.6,Strong
+17.9,96.1,3.8,Needs Support
+36.5,100.0,1.5,Average
+40.6,100.0,3.8,Strong
+55.5,63.0,5.7,Needs Support
+57.4,72.7,1.8,Average
+34.9,85.2,5.0,Needs Support
+44.3,100.0,3.4,Average
+46.5,100.0,0.1,Average
+100.0,94.8,2.7,Strong
+94.4,72.2,3.3,Average
+54.6,64.8,2.2,Average
+55.5,89.8,3.5,Needs Support
+41.3,61.5,2.5,Average
+27.7,74.4,10.4,Average
+59.9,76.3,2.1,Needs Support
+44.0,100.0,1.5,Strong
+60.5,72.7,4.8,Average
+33.2,41.4,2.3,Average
+48.3,85.6,2.6,Average
+64.7,67.5,2.4,Needs Support
+68.6,78.6,4.6,Average
+69.5,76.7,1.2,Average
+38.2,73.9,5.0,Average
+77.4,89.9,4.0,Strong
+47.6,55.0,8.3,Average
+73.4,70.2,3.2,Average
+61.8,88.3,1.2,Average
+37.2,68.8,3.2,Average
+56.3,53.9,3.5,Average
+68.6,88.0,6.1,Average
+73.0,94.8,1.2,Average
+59.5,77.3,0.7,Needs Support
+89.6,48.6,3.2,Average
+80.1,88.6,8.5,Strong
+57.4,53.1,4.4,Average
+75.5,82.6,4.5,Average
+96.8,64.7,0.9,Strong
+97.3,60.6,2.9,Needs Support
+39.9,71.4,6.1,Average
+45.3,75.3,3.5,Average
+88.7,68.3,0.7,Average
+43.0,86.8,2.8,Average
